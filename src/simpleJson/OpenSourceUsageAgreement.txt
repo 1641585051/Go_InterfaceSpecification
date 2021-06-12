@@ -1,0 +1,14 @@
+//-------------------------------------------------------------------------//
+/*
+  The source code of the Ocean project uses Github's simplejson. I and all
+  Ocean workers hereby declare that the source code of simplejson will not
+  be modified to to protect the night of the author.
+  Amd,we will continue to pay attention to the updates and progress of sim-
+  -plejson ,if we are able ,we hope we can help this project.
+
+                                                     SIGNER :{ Flag Young,
+
+
+                                                         }
+*/
+//------------------------------------------------------------------------//
